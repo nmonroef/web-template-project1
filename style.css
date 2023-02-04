@@ -1,0 +1,150 @@
+
+/* Part One */
+.part1 {
+    background-color: #1f2937;
+    height: 400px; 
+}
+nav {
+    display: flex;
+    justify-content: space-between;    
+}
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8; 
+    margin-top: 5px;
+    margin-left: 150px;  
+}
+.part1-container {
+    margin-top: 70px;
+    margin-left: 150px;
+}
+h1 {
+    margin: 0%;
+    font-size: 48px;
+    color: #f9faf8;  
+}
+.signup-button {
+    margin: 5px;
+    width: 100px;
+    height: 25px;
+    border-radius: 15%;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    text-align: center;
+}
+.part1-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin: 5px;
+}
+.placeholder {
+    height: 200px;
+    width: 500px;
+    float: inline-end;
+    margin-top: -170px;
+    margin-right: 100px;
+    background-color: gray;
+}
+.placeholder-text {
+    margin-top: 80px;
+    text-align: center;
+    color: #e5e7eb;
+}
+ul {
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;  
+}
+li {
+    list-style-type: none;
+    margin-top: 0%;
+    margin-right: 100px; 
+}
+/* Part Two */
+.part2 {
+    height: 400px;   
+}
+h2 {
+    font-size: 36px;
+    color: #1f2937;
+    text-align: center;
+}
+.project-container {
+    margin-left: 270px;
+    text-align: center;
+    display: flex;
+}
+.project {
+    height: 150px;
+    width: 150px;
+    border: solid blue 2px;
+    margin: 20px;
+    border-radius: 20%;
+    background-color: #e5e7eb;
+    text-align: center;
+    color: black;
+}
+.project-subtext {
+    font-size: 15px;
+    margin-top: 0%;
+    margin-top: 2px;
+}
+/* Part three */
+.part3 {
+    background-color: #e5e7eb;
+    height: 400px;
+    color: rgb(77, 75, 75); 
+}
+.part3-text {
+   font-size: 36px;
+   padding-left: 290px;
+   padding-top: 130px;
+}
+/* Part four */
+.part4 {
+    height: 300px;
+    background-color: white;
+}
+.part4-container {
+    height: 100px;
+    width: 850px;
+    background-color: #3882f6;
+    margin-left: 250px;
+    margin-top: 80px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: #f9faf8;    
+}
+h4 {
+    margin: 0%;
+    font-size: 25px;
+}
+.sign-up-text {
+    margin: 0px;
+}
+.signup-button2 {
+    width: 100px;
+    height: 25px;
+    border: solid #e5e7eb 2px;
+    border-radius: 15%;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    text-align: center;
+    float: right;
+    margin-right: 100px;
+}
+footer {
+    height: 80px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    text-align: center;
+    padding-top: 30px;
+}
+   
+    
+
+
+    
+    
+
+
